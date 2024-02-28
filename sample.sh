@@ -5,4 +5,4 @@
 
 ls -l
 pwd
-yum install updates | grep vim
+yum list installed | grep vim
